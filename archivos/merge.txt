@@ -1,3 +1,5 @@
+puedo hacer commits solo con carpetas que hayan cambiado sus archivos internos o que posea un archivo interno por lo menos
 Jhorman Shair Ramirez Henao
 17
 Con la materia de programacion orientada a objetos espero poder interiorizar y aplicar de buena manera los conocimientos principales de la programacion orientada a objetos
+Hay que tener cuidado con modificar dos archivos al tiempo ya que al intentarse sobreescribirse al mismo tiempo no sabran cuales cambios dejar
